@@ -1,0 +1,2 @@
+class nome:
+    txt= "ricardo"
